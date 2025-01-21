@@ -37,7 +37,7 @@ Employee attrition is a critical challenge in HR management. Understanding the f
 4. Scale numerical features for model training.
 
 **Correlation Matrix:**
-![Feature Correlation Matrix](media/Correlationmatrix.png)
+![Feature Correlation Matrix](media/Correlationmartix.png)
 
 ---
 
@@ -127,7 +127,7 @@ Each model was evaluated using the following metrics:
 ```
 
 **Confusion Matrix Explanation:**
-![How to Read Confusion Matrix](media/confusion_matrix.jpg)
+![How to Read Confusion Matrix](media/confusion-matrix.png)
 
 ---
 
